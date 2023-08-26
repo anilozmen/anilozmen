@@ -7,8 +7,10 @@ Let's connect and discuss how we can collaborate to create innovative solutions.
 
 📫 How to reach me: [me@anilozmen.com](mailto:me@anilozmen.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anilozmen&show_owner=true&repo=spring-boot-vue-security-jwt-auth)](https://github.com/anilozmen/spring-boot-vue-security-jwt-auth)
 
+
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anilozmen&show_owner=true&repo=spring-boot-vue-security-jwt-auth)](https://github.com/anilozmen/spring-boot-vue-security-jwt-auth) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anilozmen&show_owner=true&repo=spring-boot-mvc-blog)](https://github.com/anilozmen/spring-boot-mvc-blog) |
+| ------------- | ------------- |
 
 
 ## 🛠 Skills
